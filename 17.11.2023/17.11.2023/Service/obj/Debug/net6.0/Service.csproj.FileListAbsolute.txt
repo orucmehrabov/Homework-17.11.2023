@@ -1,0 +1,4 @@
+C:\Users\oruc-\OneDrive\Masaüstü\17.11.2023\17.11.2023\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oruc-\OneDrive\Masaüstü\17.11.2023\17.11.2023\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\oruc-\OneDrive\Masaüstü\17.11.2023\17.11.2023\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\oruc-\OneDrive\Masaüstü\17.11.2023\17.11.2023\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
